@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaLogica", "CapaLogica\CapaLogica.csproj", "{0A185387-4DCB-4DC7-A3CF-A676EAD930F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaPresentacion", "CapaPresentacion\CapaPresentacion.csproj", "{228893A5-803B-44DF-BBF0-9ACC2CD0EEF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A185387-4DCB-4DC7-A3CF-A676EAD930F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A185387-4DCB-4DC7-A3CF-A676EAD930F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A185387-4DCB-4DC7-A3CF-A676EAD930F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A185387-4DCB-4DC7-A3CF-A676EAD930F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{228893A5-803B-44DF-BBF0-9ACC2CD0EEF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{228893A5-803B-44DF-BBF0-9ACC2CD0EEF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{228893A5-803B-44DF-BBF0-9ACC2CD0EEF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{228893A5-803B-44DF-BBF0-9ACC2CD0EEF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F55216BC-209A-40F2-926A-8F7F462BFEB4}
+	EndGlobalSection
+EndGlobal

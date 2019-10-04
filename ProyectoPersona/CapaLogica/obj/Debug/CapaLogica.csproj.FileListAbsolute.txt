@@ -1,0 +1,6 @@
+C:\Users\Administradorr\source\repos\ProyectoPersona\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Administradorr\source\repos\ProyectoPersona\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Administradorr\source\repos\ProyectoPersona\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\Administradorr\source\repos\ProyectoPersona\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Administradorr\source\repos\ProyectoPersona\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Administradorr\source\repos\ProyectoPersona\CapaLogica\obj\Debug\CapaLogica.pdb

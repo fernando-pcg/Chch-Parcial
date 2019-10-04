@@ -1,0 +1,13 @@
+C:\Users\Administradorr\source\repos\Parcial1\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Administradorr\source\repos\Parcial1\CapaPresentacion\obj\Debug\CapaPresentacion.Presentacion.resources
+C:\Users\Administradorr\source\repos\Parcial1\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Administradorr\source\repos\Parcial1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Administradorr\source\repos\Parcial1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Administradorr\source\repos\Parcial1\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Administradorr\source\repos\Parcial1\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Administradorr\source\repos\Parcial1\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Administradorr\source\repos\Parcial1\CapaPresentacion\bin\Debug\CapaLogica.dll
+C:\Users\Administradorr\source\repos\Parcial1\CapaPresentacion\bin\Debug\CapaLogica.pdb
+C:\Users\Administradorr\source\repos\Parcial1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Administradorr\source\repos\Parcial1\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Administradorr\source\repos\Parcial1\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
